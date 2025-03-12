@@ -69,6 +69,6 @@ Welcome to **namrata9942: Full-Stack Java Mastery**, a powerhouse repository ins
 ---
 
 ---
-
-![Coding GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
+<!--
+![Coding GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)-->
 
