@@ -40,7 +40,7 @@ Welcome to **namrata9942: Full-Stack Java Mastery**, a powerhouse repository ins
 🔹 Spring Framework (Spring Boot, Spring MVC, Spring Security)  
 
 ### 🗄️ **Database:**  
-🔹 MySQL, Oracle SQL  
+🔹 MySQL
 
  
 
